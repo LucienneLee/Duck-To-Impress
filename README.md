@@ -37,8 +37,8 @@ We are very proud to say all the **dialogue / character setting / plot** are ori
 
 ## What we learned
 
-We learn the cycle of a game design _(Propose/idea/implement/test/improve)_. Mastering the coding skills of Scratch. Graphic design skills especially in pixel art. Learn how to use open-source art assets efficiently to save time.
+We learn the cycle of a game design _Propose/idea/implement/test/improve_. Mastering the coding skills of Scratch. Graphic design skills especially in pixel art. Learn how to use open-source art assets efficiently to save time.
 
 ## What's next for Duck To Impress
 
-We would like to finish it properly using a proper coding language not just Scratch. We are keen to keep developing and finish it as we can tell there is still a lot of area we can improve. We hope to make it into a project that we can show on GitHub. Or even publish it on the game release website.
+We would like to finish it properly using a proper coding language not just Scratch. We are keen to keep developing and finish it as we can tell there is still a lot of area we can improve. Even publish it on the game release website.
