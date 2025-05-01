@@ -1,7 +1,7 @@
 # Duck To Impress
 **What is this?**  
 It is an original pixel art RPG game. Start in black and white. With each completed mission. The player gradually restores the colour of the world.
-
+![](/Preview.png)
   
 ## Where can I play it?
 [The Duck Game](https://scratch.mit.edu/projects/1092754100)  
