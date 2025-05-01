@@ -1,6 +1,8 @@
 # Duck To Impress
 **What is this?**  
 It is an original pixel art RPG game. Start in black and white. With each completed mission. The player gradually restores the colour of the world.
+
+  
 ## Where can I play it?
 [The Duck Game](https://scratch.mit.edu/projects/1092754100)  
   
@@ -11,7 +13,7 @@ Inspired by the easy colour-matching game. We gradually develop it into an idea 
 
 ## What it does
 
-The game includes FIVE mini-games.  
+The game includes **FIVE** mini-games.  
 1) Yellow: Pac Man  
 2) Blue: Space shooting Game  
 3) Purple: Pattern Matching Matching  
