@@ -33,7 +33,7 @@ Scratch sometimes can work in a way that we do not understand. We have to test i
 
 ## Accomplishments that we're proud of
 
-We are very proud to say all the dialogue/ character setting/ plot are original. Most of the graphic design of the character is made by us as well. Yes, we drew all the ducks. All the games are made by us. Block by block using scratch. It is crazy we are managing to start from 0 and with no background coding in Scratch within only 10 days. Everyone contributes. Even our member who is not studying computer science helps with the coding.
+We are very proud to say all the **dialogue / character setting / plot** are original. Most of the graphic design of the character is made by us as well. Yes, we drew all the ducks. All the games are made by us. Block by block using scratch. It is crazy we are managing to start from 0 and with no background coding in Scratch within only 10 days. Everyone contributes. Even our member who is not studying computer science helps with the coding.
 
 ## What we learned
 
